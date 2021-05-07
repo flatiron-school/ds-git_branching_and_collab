@@ -13,10 +13,10 @@ Person B:
 
 Merge Conflict:
 
-1. Checkout a new branch and add a notebook called "final_notebook". Add a header and some imports.
+1. Checkout a new branch and add a notebook called "final_notebook". Add some imports.
 2. Push the changes up to the remote.
 3. Make a pull request and merge in the changes.
-4. Checkout the main branch and add "final_notebook" but this time leave off the header.
+4. Checkout the main branch and add "final_notebook" but this time add a header as well as the imports.
 5. Try to push the changes up to the remote and see the conflict.
 6. Try to pull in the new changes and see the merge conflict.
 7. Edit the notebook on GitHub or in an editor.
