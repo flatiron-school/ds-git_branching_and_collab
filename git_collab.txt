@@ -11,6 +11,12 @@ Person B:
 3. Add a function to the .py file that will input a list of strings, remove the whitespace from each, and then return the string that is alphabetically first (use 'min()').
 4. Push your new branch to the repo on GitHub (don't forget the -u flag!) and make a pull request.
 
+Together:
+0. Make sure your remote is YOUR FORK and not the flatiron-school version!
+1. Make a new branch with your name.
+2. Edit the README.
+3. Push your branch up to your fork to see the branch on GitHub.
+
 Merge Conflict:
 
 1. Checkout a new branch and add a notebook called "final_notebook". Add some imports.
